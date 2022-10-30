@@ -1,27 +1,13 @@
-
-  
-  
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Fnoberz&column=8&margin-w=10&margin-h=0&no-bg=true&no-frame=true&theme=dark_dimmed)](https://github.com/ryo-ma)
-
-  ----
-  
-
-
-
 <h2 align="center">Contact me</h2>
 
 
 - 📌 Information about all Products [Information](https://github.com/Cloud-Official/Product)
 
-- 👋 Hello I'am Fnoberz Full Stack Developer
+- 👋 Hello I'am KottHz c# developer
 
-- 🎓Advanced Master in Programming / Graduated at **Bangkok University**
+- 🛒 Product `BYPASS, SOURCE CODE, JOIN DISCORD`
 
-- 🛒 Product `PRIVATE CHEAT , SOURCE CODE , SPOOFER OTHER JOIN DISCORD`
-
-- ⚡ Website [Fnoberz.com](http://fnoberz.com/) | It's Just an Introduction and **Work History.**
-
-- 💬 Discord [Fnoberz#0001](https://discord.com/users/943374631644045363) | [Discord Server](https://discord.gg/MBTkVcJefp)
+- 💬 Discord [KottHz#0190]([https://discord.com/users/943374631644045363](https://discord.com/channels/945260490332979251)) | [Discord Server]([https://discord.gg/MBTkVcJefp](https://discord.gg/UJUzktsWSG))
 
 - 📧 Contact FnoberzOfficial@pm.me | [Telegram](https://t.me/Fnoberz) 
 
