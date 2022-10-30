@@ -7,7 +7,7 @@
 
 - 🛒 Product `BYPASS AND SOURCE CODE JOIN DISCORD`
 
-- 💬 Discord [KottHz#0190](https://discord.com/users/943374631644045363)
+- 💬 Discord [KottHz#0190](https://discord.com/users/945260490332979251)
 
 - 📧 Contact KottHz@proton.me | Email
 
