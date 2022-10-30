@@ -3,13 +3,11 @@
   
 <p align="center">
 
-![____________](https://user-images.githubusercontent.com/94861415/194702474-5d4f157b-81bc-40ae-9546-95c740190fdd.png)
-
 
 
 <p align="center">
 
-[![Website Badge](https://img.shields.io/badge/Website-Fnoberz.com-blue?style=for-the-badge)](http://fnoberz.com/)
+[![Website Badge](discord.gg/Wolf-blue?style=for-the-badge)](http://fnoberz.com/)
   
 
 
