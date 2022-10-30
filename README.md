@@ -20,14 +20,6 @@
 
 [![YouTube Channel](https://img.shields.io/badge/-YouTube-%23282a36?style=for-the-badge&logoColor=ff0000&logo=YouTube)](https://www.youtube.com/channel/UCC6wL4tAR22RMF6gXPnGVbA)
 
-
-<h2 align="center">Discord Profile</h2><br>
-  <p align="center">
-    <a href="https://discord.gg/MBTkVcJefp">
-        <img title="KottHz Server Discord" alt="KottHz discord" src="https://discord.c99.nl/widget/theme-4/943374631644045363.png"/>
-    </a>
-</p>
-
 </p>
 
 <h2 align="center"> Copyright © 2020 - 2022  
