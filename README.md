@@ -27,11 +27,6 @@
   ----
 
 
-<p align="center">
-<img src="https://readme-spotify-status-liart.vercel.app/api/run-spotify-status" alt="Your alt what" width="300" align/>
-</p>
-
-
 <h2 align="center">Programming languages that i use.</h2>
 <p align="center">
   <img alt="c#" src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC"></a> 
