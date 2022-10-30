@@ -2,12 +2,20 @@
 
 <!--
 **KottHz/KottHz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 Discord: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+📌 Information about all Products Information
+
+👋 Hello I'am Fnoberz Full Stack Developer
+
+🎓Advanced Master in Programming / Graduated at Bangkok University
+
+🛒 Product PRIVATE CHEAT , SOURCE CODE , SPOOFER OTHER JOIN DISCORD
+
+⚡ Website Fnoberz.com | It's Just an Introduction and Work History.
+
+💬 Discord KottHz#0190 | Discord Server
+
+📧 Contact FnoberzOfficial@pm.me | Telegram
+
+
 -->
