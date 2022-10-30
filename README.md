@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**KottHz/KottHz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 📌 Information about all Products Information
 
 👋 Hello I'am Fnoberz Full Stack Developer
@@ -16,6 +13,3 @@
 💬 Discord KottHz#0190 | Discord Server
 
 📧 Contact FnoberzOfficial@pm.me | Telegram
-
-
--->
