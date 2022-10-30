@@ -1,13 +1,9 @@
-### Hi there 👋
+### 📌 Information about all Products Information
 
-📌 Information about all Products Information
+### 👋 Hello I'am KottHz c# developer
 
-👋 Hello I'am Fnoberz Full Stack Developer
+### 🛒 Product Bypass and source code, join discord
 
-🎓Advanced Master in Programming / Graduated at Bangkok University
+### 💬 Discord discord.gg/Wolf | Discord Server
 
-🛒 Product Bypass and source code, join discord
-
-💬 Discord discord.gg/Wolf | Discord Server
-
-📧 Contact KottHz#0190 | Email
+### 📧 Contact KottHz#0190 | Personal Discord
