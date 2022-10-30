@@ -5,9 +5,9 @@
 
 - 👋 Hello I'am KottHz c# developer
 
-- 🛒 Product `BYPASS, SOURCE CODE, JOIN DISCORD`
+- 🛒 Product `BYPASS AND SOURCE CODE JOIN DISCORD`
 
-- 💬 Discord [KottHz#0190]([https://discord.com/users/943374631644045363](https://discord.com/channels/945260490332979251)) | [Discord Server]([https://discord.gg/MBTkVcJefp](https://discord.gg/UJUzktsWSG))
+- 💬 Discord [KottHz#0190]([https://discord.com/users/943374631644045363](https://discord.com/channels/945260490332979251)) | [Discord Server]([[https://discord.gg/MBTkVcJefp]([https://discord.gg/UJUzktsWSG]([https://discord.gg/UJUzktsWSG]))]
 
 - 📧 Contact KottHz@proton.me | Email
 
