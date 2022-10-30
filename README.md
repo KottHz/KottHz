@@ -6,10 +6,8 @@
 
 🎓Advanced Master in Programming / Graduated at Bangkok University
 
-🛒 Product PRIVATE CHEAT , SOURCE CODE , SPOOFER OTHER JOIN DISCORD
+🛒 Product Bypass and source code, join discord
 
-⚡ Website Fnoberz.com | It's Just an Introduction and Work History.
+💬 Discord discord.gg/Wolf | Discord Server
 
-💬 Discord KottHz#0190 | Discord Server
-
-📧 Contact FnoberzOfficial@pm.me | Telegram
+📧 Contact KottHz#0190 | Email
