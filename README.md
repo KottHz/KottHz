@@ -3,9 +3,9 @@
 
 - 📌 Information about all Products [Information]()
 
-- 👋 Hello I'am KottHz c# developer
+- 👋 Hello I'am KottHz c# and c++ developer
 
-- 🛒 Product `BYPASS AND SOURCE CODE JOIN DISCORD`
+- 🛒 Product `VALORANT CHEAT` Join Discord Server
 
 - 💬 Discord [KottHz#0190](https://discord.com/users/945260490332979251) | [Discord Server](https://discord.gg/UJUzktsWSG)
 
